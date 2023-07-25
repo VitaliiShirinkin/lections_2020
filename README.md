@@ -45,8 +45,8 @@
 16. _
 17. _
 18. _
-19. _ 
-Лекция 5 (осень): Хеш-таблицы https://www.youtube.com/live/Tui85_T4qdA?feature=share (без кода С++)
+19. _
+20. Лекция 5 (осень): Хеш-таблицы https://www.youtube.com/live/Tui85_T4qdA?feature=share (без кода С++)
 
 
 ### Методические указания обучающимся
