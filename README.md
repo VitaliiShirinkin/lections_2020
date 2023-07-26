@@ -49,6 +49,7 @@
 20. Лекция 5 (осень): Хеш-таблицы (std::unorderet_map, для увеличения скорости - std::unorderet_set) https://www.youtube.com/live/Tui85_T4qdA?feature=share (без кода С++)
 21. Лекция 6 (осень): Двоичное дерево поиска, правый и левый повороты, красно-черные деревья (std::map), деревья только с ключами, без значений (std::set) https://www.youtube.com/live/fKqMtW7Efdg?feature=share
 22. Лекция 7 (осень): базы данных https://www.youtube.com/live/V1rz3hbzsdw?feature=share
+23. Лекция 8 (осень): графы и орграфы https://www.youtube.com/live/HoMZt-eWzLo?feature=share
 
 
 ### Методические указания обучающимся
