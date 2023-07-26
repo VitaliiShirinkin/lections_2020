@@ -47,7 +47,7 @@
 18. _
 19. _
 20. Лекция 5 (осень): Хеш-таблицы https://www.youtube.com/live/Tui85_T4qdA?feature=share (без кода С++)
-21. Лекция 6 (осень): Двоичное дерево поиска https://www.youtube.com/live/fKqMtW7Efdg?feature=share
+21. Лекция 6 (осень): Двоичное дерево поиска, правый и левый повороты, красно-черные деревья https://www.youtube.com/live/fKqMtW7Efdg?feature=share
 
 
 ### Методические указания обучающимся
